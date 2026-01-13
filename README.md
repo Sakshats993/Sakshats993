@@ -81,8 +81,11 @@ MongoDB, Git, GitHub, Linux, Windows
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sakshats&theme=aura&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sakshats&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshats&theme=aura&hide_border=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Sakshats993&theme=aura&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Sakshats993&theme=aura&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshats993&theme=aura&hide_border=false&layout=compact)
 
 ---

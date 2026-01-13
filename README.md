@@ -1,18 +1,88 @@
 # Sakshat-S
-About Me
-# 💫 About Me:
-About me:<br>I'm an aspiring cybersecurity engineer passionate about ethical hacking, threat analysis, and building secure, impactful applications. I actively participate in hackathons and work on security-focused projects involving Al and vulnerability assessment.<br><br>I'm currently working on<br>Developing cybersecurity tools such as keyloggers, threat analyzers, text encryption tools and vulnerability assessment utilities<br>Enhancing my Al-powered security project for predictive analysis<br>Strengthening my portfolio through hands-on projects in offensive and defensive security<br><br>I'm looking to collaborate on<br>Cybersecurity projects (VAPT, malware analysis, threat detection, OSINT tools)<br>Al + Cybersecurity integrations<br>Web security tools <br>Open-source security research<br><br>I'm looking for help with<br>Improving my penetration testing workflow<br>Deploying cybersecurity tools in real-world environments<br>Learning more advanced concepts in network security and cloud security<br>Guidance on getting better at Capture the Flag (CTF) challenges<br><br>I'm currently learning<br>Kali Linux, Burp Suite, Wireshark, and Nmap<br>Secure coding and vulnerability exploitation<br>Basics of cloud security (Azure)<br>Al/ML integrations with cybersecurity<br>Ethical hacking fundamentals<br><br>Ask me about<br>Cybersecurity basics<br> Ethical hacking fundamentals<br>Building beginner-friendly security tools<br>Hackathons and project development<br>Threat analysis and risk assessment<br><br>Fun Fact:<br>I love participating in hackathons-I've already ranked in Top 5 and Top 20 in multiple competitions while still in my second year!<br><br><br>
 
+## 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshat-salian-0796a230b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshats993@gmail.com) 
+I'm a **Cybersecurity student and aspiring Cloud Security Engineer** with a strong interest in securing cloud infrastructure, networks, and web applications. I focus on **practical security engineering**, bridging fundamentals like networking and web security with **cloud-first security concepts (Azure-focused)**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sakshat S&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sakshat S&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshat S&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy building **hands-on security projects**, writing structured reports, and understanding *why* vulnerabilities exist—not just how to exploit them. My long-term goal is to work in **cloud security, detection engineering, or security operations**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sakshat S&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔭 What I’m Currently Working On
+- Cloud-relevant security projects (pre-cloud → cloud security mapping)
+- Web application security assessments & vulnerability scanning
+- Network visibility, traffic analysis, and threat detection concepts
+- Automating security workflows using Python & Bash
+- Strengthening fundamentals for cloud security engineering roles
+
+---
+
+## 🤝 I’m Looking to Collaborate On
+- Cloud security & DevSecOps projects  
+- Web application security (VAPT, secure design, threat modeling)  
+- Network security & traffic analysis labs  
+- Open-source cybersecurity tools or research  
+- Beginner-to-intermediate security automation projects  
+
+---
+
+## 🧠 I’m Looking for Help With
+- Designing secure cloud architectures (Azure-first)
+- Detection & monitoring concepts (logs, alerts, IDS/IPS)
+- Improving vulnerability assessment methodology
+- Mapping traditional security findings to cloud controls
+- Career guidance for cloud security engineering roles
+
+---
+
+## 📚 Currently Learning
+- Networking fundamentals with security focus  
+- Web security & vulnerability assessment (OWASP-based)
+- Tools: Nmap, Wireshark, Burp Suite, Suricata (foundational depth)
+- Cloud security fundamentals (Azure)
+- Secure system design & threat modeling basics
+- Linux fundamentals for security engineering
+
+---
+
+## 💬 Ask Me About
+- Cybersecurity fundamentals  
+- Web vulnerability scanning & reporting  
+- Network traffic analysis basics  
+- Beginner security automation ideas  
+- How to structure security projects & reports  
+
+---
+
+## ⚡ Fun Fact
+I enjoy breaking down complex security topics into **clear, structured explanations** and building projects that show *real understanding*, not just tool usage.
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshat-salian-0796a230b)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshats993@gmail.com)
+
+---
+
+## 💻 Tech Stack
+**Languages & Scripting:**  
+C, C++, Java, Python, Bash, PowerShell, JavaScript  
+
+**Security & Networking:**  
+Nmap, Wireshark, Burp Suite, Kali Linux, Suricata  
+
+**Cloud & Dev:**  
+Microsoft Azure, AWS (basic), Node.js, Django  
+
+**Databases & Tools:**  
+MongoDB, Git, GitHub, Linux, Windows  
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sakshats&theme=aura&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=sakshats&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshats&theme=aura&hide_border=false&layout=compact)
+
+---

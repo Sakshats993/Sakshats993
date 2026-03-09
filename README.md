@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I'm a **Cybersecurity student and aspiring Cloud Security Engineer** with a strong interest in securing cloud infrastructure, networks, and web applications. I focus on **practical security engineering**, bridging fundamentals like networking and web security with **cloud-first security concepts (Azure-focused)**.
+I'm a **Cybersecurity student and aspiring Cloud Security Engineer** with a strong interest in securing cloud infrastructure, networks, and web applications. I focus on **practical security engineering**, bridging fundamentals like networking and web security with **cloud-first security concepts**.
 
 I enjoy building **hands-on security projects**, writing structured reports, and understanding *why* vulnerabilities exist—not just how to exploit them. My long-term goal is to work in **cloud security, detection engineering, or security operations**.
 

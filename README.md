@@ -208,11 +208,26 @@ I enjoy breaking down complex cybersecurity concepts into **clear, structured ex
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sakshats993&theme=aura&hide_border=false)
+# 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sakshats993/Sakshats993/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshats993&show_icons=true&theme=aura&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Sakshats993&theme=aura&hide_border=true" height="170"/>
+
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshats993&theme=aura&hide_border=false&layout=compact)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshats993&layout=compact&theme=aura&hide_border=true" height="160"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakshats993/Sakshats993/output/github-contribution-grid-snake-dark.svg"/>
+</p>

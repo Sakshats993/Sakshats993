@@ -164,59 +164,6 @@ https://github.com/Sakshats993/Advanced-Keylogger-Project
 
 ---
 
-# 🛠️ Security Projects & Labs
-
-### 🔹 Network Traffic Analysis Lab
-Analyzed network traffic using **Wireshark** to understand how protocols communicate and how suspicious patterns can be identified.
-
-Key Concepts:
-- TCP handshake analysis
-- DNS request/response observation
-- HTTP traffic inspection
-- Mapping packet flows to security monitoring
-
----
-
-### 🔹 Web Vulnerability Scanning & Assessment
-Performed vulnerability discovery and reporting on web applications.
-
-Concepts Practiced:
-- Reconnaissance using Nmap
-- Web request analysis
-- Vulnerability reporting
-- Security impact explanation
-
----
-
-### 🔹 Automated Attack Surface Discovery Tool
-Built a script that automates **Nmap scanning and reporting**.
-
-Features:
-- Automated scanning workflow
-- Structured output reports
-- Security assessment documentation
-
----
-
-### 🔹 Cloud Security Comparison Study
-Comparative analysis of **AWS vs Azure security architecture** including:
-
-- IAM models
-- Networking design
-- Shared responsibility
-- Security controls
-
----
-
-### 🔹 Secure Web Application Architecture (Conceptual)
-Designed a conceptual secure web application architecture covering:
-
-- Identity management
-- Network security controls
-- Monitoring & logging
-
----
-
 # 🤝 Open To Collaborate On
 
 - Cloud security learning projects  
@@ -262,11 +209,10 @@ I enjoy breaking down complex cybersecurity concepts into **clear, structured ex
 ---
 
 # 📊 GitHub Stats
-
+![](https://github-readme-stats.vercel.app/api?username=Sakshats993&theme=aura&hide_border=false)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sakshats993/Sakshats993/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshats993&theme=aura&hide_border=false&layout=compact)

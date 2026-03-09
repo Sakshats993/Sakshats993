@@ -224,7 +224,6 @@ I enjoy breaking down complex cybersecurity concepts into **clear, structured ex
 
 </p>
 
----
 
 ## 🐍 Contribution Snake
 

@@ -224,9 +224,12 @@ I enjoy breaking down complex cybersecurity concepts into **clear, structured ex
 
 </p>
 
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sakshats993/Sakshats993/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+---

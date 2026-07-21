@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Threat+Modeling+%7C+Network+Analysis;Web+Security+%7C+Traffic+Analysis+%7C+Security+Automation;Azure+%7C+AWS+%7C+Wireshark+%7C+Nmap;Building+Security+Projects+with+Real+Understanding;Future+Cloud+Security+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Threat+Modeling+%7C+Network+Analysis;Web+Security+%7C+Traffic+Analysis+%7C+Security+Automation;Azure+%7C+AWS+%7C+Wireshark+%7C+Nmap;Building+Security+Projects+with+Real+Understanding;Future+Cloud+Engineer" />
 </p>
 
 ---
 
-I'm a **2nd year Cybersecurity student from India** focused on becoming a **Cloud Security Engineer**.
+I'm a **3rd year Cybersecurity student from India** focused on becoming a **Cloud  Engineer**.
 
 My work focuses on understanding **how systems communicate, how attacks happen, and how cloud infrastructure can be secured**.  
-I enjoy building **hands‑on security projects**, analyzing network traffic, and translating traditional security problems into **cloud security solutions**.
+I enjoy building **hands‑on security projects**, analyzing network traffic, and translating traditional security problems into **cloud solutions**.
 
 My long‑term goal is to design and secure **resilient cloud infrastructure and applications**.
 
